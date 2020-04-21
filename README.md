@@ -1,4 +1,4 @@
-# ALS-Reccomendstion-system-using-Pyspark
+# ALS-Reccomendation-system-using-Pyspark
 Building a Recommendation system using Pyspark on MovieLens dataset. 
 MovieLens is a dataset that is collected by the GroupLens Research Project at the University of
 Minnesota and made available rating data sets from the MovieLens web site which can be downloaded from https://grouplens.org/datasets/movielens/. 
